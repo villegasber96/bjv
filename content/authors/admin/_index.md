@@ -54,11 +54,11 @@ interests:
   - AI Ethics
 
 education:
-  - area: PhD Human-Inspired Artificial Intelligence 
+  - area: PhD Human-Inspired Artificial Intelligence
     institution: Cambridge University
     icon: ""
     date_start: 2025-10-01
-    date_end: ongoing
+    date_end: ''
     summary: |
       First cohort
     button:
