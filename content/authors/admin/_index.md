@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Alex Johnson
+title: Bernardo Villegas
 
 # Name pronunciation (optional)
-name_pronunciation: ''
+name_pronunciation: 'he/him'
 
 # Full name (for SEO)
-first_name: Alex
-last_name: Johnson
+first_name: Bernardo
+last_name: Villegas
 
 # Pronouns (optional)
 pronouns: he/him
 
 # Status emoji
 status:
-  icon: 🚀
+  icon: 
 
 # Is this the primary user of the site?
 superuser: true
@@ -23,58 +23,58 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Senior AI Research Scientist
+role: PhD Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: University of Cambridge – Center for Human Inspired AI
+    url: https://chia.cam.ac.uk/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:alex.johnson@meta.com'
+    url: 'mailto:bjv30@cam.ac.uk'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/AlexAIResearch
+    url: https://twitter.com/Bernardo__VM
   - icon: brands/github
-    url: https://github.com/alexjohnsonai
+    url: https://github.com/villegasber96
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/alexjohnsonai/
+    url: https://www.linkedin.com/in/bernardovillegas96/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=alexjohnson
+    url: https://scholar.google.com/citations?user=j6a2kQkAAAAJ&hl=en
   - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: https://orcid.org/0000-0001-6919-3996
 
 interests:
+  - Social Evaluation of AI
   - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
+  - Human Centered AI
   - AI Ethics
 
 education:
-  - area: PhD Computer Science (AI Focus)
-    institution: Stanford University
+  - area: PhD Human-Inspired Artificial Intelligence 
+    institution: Cambridge University
     icon: ""
-    date_start: 2015-09-01
-    date_end: 2019-06-30
+    date_start: 2025-10-01
+    date_end: ongoing
     summary: |
-      Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
+      First cohort
     button:
-      text: 'Read Thesis'
-      url: 'https://example.com/thesis.pdf'
-  - area: MS Computer Science
-    institution: Carnegie Mellon University
+      text: 'See my profile'
+      url: 'https://www.chia.cam.ac.uk/team/bernardo-villegas-moreno'
+  - area: MSc Data Science, Technology & Innovation
+    institution: University of Edinburgh
     icon: ""
-    date_start: 2013-09-01
-    date_end: 2015-05-31
+    date_start: 2021-09-01
+    date_end: 2023-11-17
     summary: |
       GPA: 4.0/4.0
 
       Specialized in machine learning and robotics.
-  - area: BS Computer Science
-    institution: MIT
+  - area: BA Sociology
+    institution: Pontifical Catholic University of Ecuador
     icon: ""
     date_start: 2009-09-01
     date_end: 2013-05-31
@@ -169,4 +169,10 @@ awards:
       Recognized for contributions to scaling laws in deep learning.
 ---
 
-Alex Johnson is a Senior AI Research Scientist at Meta AI, where he leads groundbreaking work on large language models and multimodal systems. His research has been published in top conferences like NeurIPS and ICML, with over 10,000 citations. Alex is passionate about pushing the boundaries of AI while ensuring ethical development. Outside of work, he enjoys hiking in the Rockies, building custom PCs, and mentoring the next generation of AI talent.
+Sociologist and data scientist committed to developing artificial intelligence with humanity in mind. 
+
+PhD student in the Human-Inspired Artificial Intelligence at the Center for Human Inspired AI at the University of Cambridge. My research ultimately points towards increase human agency over AI tools, looking to integrate them as thought partners. 
+
+
+
+Latin America must be a protagonist in global conversations about ethical AI, contributing critical perspectives, creativity, and social commitment.
